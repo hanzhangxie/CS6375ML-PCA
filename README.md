@@ -7,12 +7,16 @@ We use some image processing and machine learning libraries to implement color q
 
 Their names and installation instructions are as follows:
 1. numpy
+	
 	Open the terminal and input: pip3 install numpy
 2. matplotlib
+	
 	Open the terminal and input: pip3 install matplotlib
 3. imageio
+	
 	Open the terminal and input: pip3 install imageio
 4. PIL
+	
 	Open the terminal and input: pip3 install pillow
 
 Development environment
